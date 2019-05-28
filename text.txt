@@ -4,14 +4,6 @@ lyric
 lyric2
 lyric3
 
-Aaaaa
-Bbbbb
-Cccc
+___________
 
-
-Dddd
-Fff
-Gggggg
-
-----------------
-Aaaaaaa
+Aaaaaa
