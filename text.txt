@@ -1,19 +1,6 @@
 Text text text
 song
-lyric
-lyric2
-lyric3
 
-Aaaaa
-Bbbbb
-Cccc
+first coup.
 
-
-Dddd
-Fff
-Gggggg
-
-----------------
-Aaaaaaa
-
-111111
+second coup.
