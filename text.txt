@@ -4,8 +4,8 @@ song
 first coup.
 
 second coup.
-<<<<<<< HEAD
-=======
+
 
 I want to complete this course
->>>>>>> feature
+
+And I will!
